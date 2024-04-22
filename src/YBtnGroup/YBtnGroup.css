@@ -1,0 +1,13 @@
+.y-group-btn {
+    display: flex;
+    flex-direction: row;
+}
+
+.y-group-btn > .y-button {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    box-shadow: none;
+}
+.y-group-btn > .y-button:active {
+    box-shadow: none;
+}

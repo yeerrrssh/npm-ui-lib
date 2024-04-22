@@ -1,0 +1,21 @@
+.y-table {
+    background: none;
+    font: 15px "Trebuchet MS", Tahoma, Arial, sans-serif;
+    border: 1px solid #383838;
+    color: black;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+.y-table > thead > tr > th {
+    border: 1px solid #383838;
+    padding: 5px;
+
+    font-weight: normal;
+}
+
+.y-table > tbody > tr > td {
+    border: 1px solid #383838;
+    padding: 5px;
+}

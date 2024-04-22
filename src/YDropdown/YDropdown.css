@@ -1,0 +1,16 @@
+.y-dropdown {
+    border: none;
+    background-color: white;
+    box-shadow:
+            inset 0 3px #A2A2A2,
+            inset 3px 0 #A2A2A2,
+            inset -3px 0 #C8C8C8,
+            inset 0 -3px #C8C8C8;
+
+    padding: 6px;
+    font: 15px "Trebuchet MS", Tahoma, Arial, sans-serif;
+}
+
+.y-dropdown > option {
+    font: 15px "Trebuchet MS", Tahoma, Arial, sans-serif;
+}
